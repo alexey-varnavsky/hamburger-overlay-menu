@@ -5,7 +5,7 @@
   "main": "index.html",
   "homepage": "https://alexey-varnavsky.github.io/hamburger-overlay-menu",
   "scripts": {
-    "deploy": "gh-pages -d index.html"
+    "deploy": "gh-pages -d ./"
   },
   "author": "Alexey Varnavsky",
   "license": "MIT",
