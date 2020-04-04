@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "only css animate hamburger menu",
   "main": "index.html",
-  "homepage": "alexey-varnavsky.github.io/hamburger-overlay-menu",
+  "homepage": "https://alexey-varnavsky.github.io/hamburger-overlay-menu",
   "scripts": {
-    "deploy": "gh-pages -d index.html"
+    "deploy": "gh-pages -d hamburger_overlay_menu"
   },
   "author": "Alexey Varnavsky",
   "license": "MIT",
