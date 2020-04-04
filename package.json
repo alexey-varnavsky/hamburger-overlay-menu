@@ -1,0 +1,11 @@
+{
+  "name": "hamburger_overlay_menu",
+  "version": "1.0.0",
+  "description": "only css animate hamburger menu",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Varnavsky",
+  "license": "MIT"
+}
